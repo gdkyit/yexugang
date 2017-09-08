@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/training
+    driver-class-name: com.mysql.jdbc.Driver
+    password: 2014dsl
+    username: root
